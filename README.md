@@ -13,7 +13,7 @@
 
 ## 💻 在线体验
 
-👉 直接访问：<transflag.luoxue.cc>
+👉 直接访问：<https://transflag.luoxue.cc>
 
 ---
 
